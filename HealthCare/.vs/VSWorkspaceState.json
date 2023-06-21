@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HealthCareApp",
+    "\\HealthCareApp\\src",
+    "\\HealthCareApp\\src\\app",
+    "\\HealthCareApp\\src\\app\\about-us",
+    "\\HealthCareApp\\src\\app\\navbar",
+    "\\HealthCareApp\\src\\app\\product-details-dialog",
+    "\\HealthCareApp\\src\\app\\products",
+    "\\HealthCareApp\\src\\app\\products-details",
+    "\\HealthCareApp\\src\\Services"
+  ],
+  "SelectedNode": "\\HealthCareApp\\src\\app\\navbar\\navbar.component.css",
+  "PreviewInSolutionExplorer": false
+}

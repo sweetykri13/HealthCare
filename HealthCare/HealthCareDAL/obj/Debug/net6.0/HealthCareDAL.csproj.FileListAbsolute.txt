@@ -1,0 +1,15 @@
+D:\HealthCare\HealthCare\HealthCareDAL\bin\Debug\net6.0\HealthCareDAL.deps.json
+D:\HealthCare\HealthCare\HealthCareDAL\bin\Debug\net6.0\HealthCareDAL.runtimeconfig.json
+D:\HealthCare\HealthCare\HealthCareDAL\bin\Debug\net6.0\HealthCareDAL.dll
+D:\HealthCare\HealthCare\HealthCareDAL\bin\Debug\net6.0\HealthCareDAL.pdb
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.csproj.AssemblyReference.cache
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.AssemblyInfoInputs.cache
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.AssemblyInfo.cs
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.csproj.CoreCompileInputs.cache
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.dll
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\refint\HealthCareDAL.dll
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.pdb
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\HealthCareDAL.genruntimeconfig.cache
+D:\HealthCare\HealthCare\HealthCareDAL\obj\Debug\net6.0\ref\HealthCareDAL.dll
+D:\HealthCare\HealthCare\HealthCareDAL\bin\Debug\net6.0\appsettings.json
